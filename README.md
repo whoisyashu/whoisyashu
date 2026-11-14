@@ -1,16 +1,14 @@
-<!--
-  GitHub Profile README for @whoisyashu
-  Keep this page honest, focused, and updated as your work evolves.
--->
+<!-- GitHub profile README for @whoisyashu -->
 
 <div align="center">
 
 # Hey, I'm Yash 👋
 
-### Computer Science Engineering · Software Development · Building useful things
+### Curious mind. Problem solver. Work in progress.
 
-I enjoy turning ideas into practical products — from backend systems and database design
-to clean interfaces and tools that make everyday workflows better.
+I’m a Computer Science engineering student who enjoys exploring how technology can solve
+real-world problems. I like starting with a question, understanding the problem behind it,
+and gradually turning an idea into something useful.
 
 <br/>
 
@@ -21,72 +19,47 @@ to clean interfaces and tools that make everyday workflows better.
 
 ---
 
-## 🚀 About me
+## 🌱 A little about me
 
-- 🎓 I'm a Computer Science engineering student focused on growing as a software engineer.
-- 🧩 I enjoy working across the stack, especially **backend development, APIs, databases, and system design**.
-- 🛠️ I learn by building: understanding a problem, breaking it into parts, implementing a solution, and improving it through feedback.
-- 🌱 Currently strengthening my foundations in **Python, SQL, PostgreSQL, Git, and Linux**.
-- 💡 Interested in practical software, developer tools, data-intensive applications, and products that solve meaningful problems.
-- 🌍 Working towards opportunities to collaborate and build with international teams.
+- 🎓 Computer Science engineering student, continuously learning and experimenting.
+- 🧠 Interested in understanding how software, systems, and products work behind the scenes.
+- 🔍 Curious about problem-solving, technology, business, and the ideas that connect them.
+- 🏗️ I enjoy taking projects from an initial idea through planning, building, testing, and iteration.
+- 🌍 Interested in learning from people, teams, and opportunities around the world.
 
-> **My approach:** Learn the fundamentals. Build useful things. Understand the trade-offs. Keep improving.
+## 💭 What I’m exploring
 
-## 🧰 Tech toolbox
+Rather than limiting myself to one specialisation too early, I’m using this stage of my journey
+to build strong fundamentals and discover where I can create the most value.
 
-*Technologies I've worked with or am actively learning. This list reflects my current toolbox, not equal proficiency in every tool.*
+Some areas I’m curious about:
 
-<div align="center">
+- **Software engineering** — understanding how reliable applications and systems are designed.
+- **Data and technology** — turning information into useful insights and decisions.
+- **Product thinking** — understanding users, identifying problems, and shaping useful solutions.
+- **Systems and problem-solving** — breaking complex challenges into manageable pieces.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🧩 How I like to work
 
-### Backend & databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+1. **Understand the problem** — start with the why before jumping to the how.
+2. **Plan thoughtfully** — define requirements, explore possible approaches, and consider trade-offs.
+3. **Build and experiment** — turn ideas into working solutions.
+4. **Learn from feedback** — test, improve, document, and iterate.
 
-### Frontend & developer tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+I believe progress comes from consistency, curiosity, and a willingness to start from the basics.
 
-</div>
+## 🚧 What you'll find here
 
-## 🏗️ What I like building
+This GitHub profile is a record of my learning and building journey.
 
-I prefer projects that demonstrate more than a UI: clear requirements, thoughtful data models,
-working APIs, sensible architecture, and useful documentation.
+You'll find experiments, practice work, projects, ideas, and lessons learned along the way.
+Not everything will be perfect or finished — that's part of the process.
 
-| Area | What interests me |
-|---|---|
-| Backend engineering | REST APIs, authentication, validation, and maintainable services |
-| Databases | Relational modelling, PostgreSQL, query design, and performance |
-| Business software | Tools that simplify operations for teams and small businesses |
-| Data & automation | Python-based workflows, useful insights, and practical automation |
-
-Explore my [repositories](https://github.com/whoisyashu?tab=repositories) to see what I'm working on.
-
-## 📚 Currently learning
-
-- **Python:** language fundamentals, data structures, functions, OOP, and problem solving.
-- **SQL & PostgreSQL:** joins, CTEs, window functions, schema design, and indexing.
-- **Backend engineering:** HTTP, REST APIs, authentication, testing, and deployment.
-- **Engineering workflow:** Git, Linux, debugging, documentation, and maintainable code.
-
-I focus on understanding *why* something works, not just copying a solution.
+Explore my [repositories](https://github.com/whoisyashu?tab=repositories) to follow along.
 
 ## 🤝 Let's connect
 
-I'm happy to connect with fellow builders, developers, students, and people working on interesting ideas.
+Always glad to connect with curious people, fellow learners, developers, and builders.
 
 - 🌐 **Portfolio:** [heyitsyash.tech](https://heyitsyash.tech)
 - 💻 **GitHub:** [@whoisyashu](https://github.com/whoisyashu)
@@ -95,6 +68,6 @@ I'm happy to connect with fellow builders, developers, students, and people work
 
 <div align="center">
 
-*Building with curiosity. Improving with consistency.* ✨
+*Starting with the basics. Building with purpose. Getting better every day.* ✨
 
 </div>
